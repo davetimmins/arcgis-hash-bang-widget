@@ -1,0 +1,37 @@
+{
+  "name": "arcgis-hash-bang-widget",
+  "version": "1.0.0",
+  "description": "An ArcGIS JS V4 widget that gets and sets the URL hash-bang.",
+  "files": ["src"],
+  "main": "dojoConfig.js",
+  "author": "Dave Timmins <dwtimmins@outlook.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davetimmins/arcgis-hash-bang-widget"
+  },
+  "keywords": [
+    "Hash-bang",
+    "localStorage",
+    "ArcGIS",
+    "Widget",
+    "Esri",
+    "dojo"
+  ],
+  "bugs": {
+    "url": "https://github.com/davetimmins/arcgis-hash-bang-widget/issues"
+  },
+  "homepage": "http://davetimmins.com/arcgis-hash-bang-widget/",
+  "local-web-server": {
+    "port": 8102
+  },
+  "scripts": {
+    "start": "ws"
+  },
+  "devDependencies": {    
+    "local-web-server": "^1.2.6"
+  },
+  "dependencies": {
+    
+  }
+}
