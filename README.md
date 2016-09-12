@@ -12,7 +12,7 @@ require([
 
   // create your map and view
 
-  var extentNav = new HashBang({
+  var hashBang = new HashBang({
     view: view,
     silentMode: true // default is false
   });
