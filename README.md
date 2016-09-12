@@ -1,5 +1,5 @@
 # arcgis-hash-bang-widget
-:hash: An ArcGIS JS V4 widget that gets and sets the URL hash-bang. Less bang, more hash.
+:hash: An ArcGIS JS V4 widget that gets and sets the URL hash, or does something else. Less bang, more hash.
 
 [![npm](https://img.shields.io/npm/v/arcgis-hash-bang-widget.svg?maxAge=2592000)](https://www.npmjs.com/package/arcgis-hash-bang-widget)
 

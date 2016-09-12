@@ -1,7 +1,7 @@
 {
   "name": "arcgis-hash-bang-widget",
-  "version": "1.0.0",
-  "description": "An ArcGIS JS V4 widget that gets and sets the URL hash-bang.",
+  "version": "1.0.1",
+  "description": "An ArcGIS JS V4 widget that gets and sets the URL hash, or does something else.",
   "files": ["src"],
   "main": "dojoConfig.js",
   "author": "Dave Timmins <dwtimmins@outlook.com>",
